@@ -3,7 +3,7 @@
 - 4学期授業ファイルの提出.
 
 ## -name
--name: Tokyo Taro
+- name: Tokyo Taro
 
 ## -comment
 - hello
