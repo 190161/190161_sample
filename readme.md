@@ -1,13 +1,13 @@
 # my project
-- this is my project.
+- 4学期授業ファイルの提出.
 
-## profile
+## プロフィール
 -name: Tokyo Taro
 
-## note
+## コメント
 - hello
 
-# newRead
+# 背景
 
 ![背景](https://github.com/190161/190161_sample/blob/master/img_0%20.jpg)
 
