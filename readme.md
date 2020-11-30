@@ -7,3 +7,6 @@
 ## note
 - hello
 
+#newRead
+![背景](img_0.jpg)
+
