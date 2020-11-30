@@ -7,5 +7,3 @@
 ## note
 - hello
 
-'''php 'hello'; 
-...
